@@ -18,7 +18,6 @@ gcc main.c -o game
 ./game
 
 ## 📸 Output
-(Add your screenshot here)
 
 ## 👨‍💻 Author
 Rishu Kumar
